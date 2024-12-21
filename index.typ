@@ -14,8 +14,8 @@
 )
 
 
-#include "src/00_sources.typ"
+//#include "src/00_sources.typ"
 
-#include "src/01_langs.typ"
+//#include "src/01_langs.typ"
 
 #include "src/02_creation/02_0_creation.typ"
