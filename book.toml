@@ -1,9 +1,0 @@
-[book]
-authors = ["pank-su"]
-language = "en"
-multilingual = false
-src = "src"
-title = "История России"
-
-[output.html]
-smart-punctuation = true
