@@ -22,4 +22,4 @@
 
 #include "src/03_razdr/03_0_razdr.typ"
 
-#include "src/04_borba/04_0_borba.typ"
+#include "src/04_borba.typ"
