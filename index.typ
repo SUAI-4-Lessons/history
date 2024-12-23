@@ -24,3 +24,6 @@
 #include "src/04_borba.typ"
 
 #include "src/05_mongol_expansion/05_0_mongol_expansion.typ"
+
+#include "src/06_new_gov/06_0_new_gov.typ"
+
