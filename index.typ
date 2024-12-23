@@ -10,9 +10,8 @@
   figure-index: (enabled: true),
   table-index: (enabled: true),
   listing-index: (enabled: true),
-  table-of-contents: outline(depth: 2)
+  table-of-contents: outline(depth: 2),
 )
-
 
 //#include "src/00_sources.typ"
 
@@ -23,3 +22,5 @@
 #include "src/03_razdr/03_0_razdr.typ"
 
 #include "src/04_borba.typ"
+
+#include "src/05_mongol_expansion/05_0_mongol_expansion.typ"
