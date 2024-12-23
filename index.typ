@@ -28,3 +28,5 @@
 #include "src/06_new_gov/06_0_new_gov.typ"
 
 #include "src/07_ivan_4/07_0_ivan_4.typ"
+
+#include "src/08_smuta.typ"
