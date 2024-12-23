@@ -19,3 +19,7 @@
 //#include "src/01_langs.typ"
 
 #include "src/02_creation/02_0_creation.typ"
+
+#include "src/03_razdr/03_0_razdr.typ"
+
+#include "src/04_borba/04_0_borba.typ"
