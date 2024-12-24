@@ -42,3 +42,7 @@
 #include "src/13_gov_reverse.typ"
 
 #include "src/14_katya_2/14_katya_2.typ"
+
+#include "src/15_pawel_1.typ"
+
+#include "src/16_alex_1/16_alex_1.typ"
