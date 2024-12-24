@@ -30,3 +30,6 @@
 #include "src/07_ivan_4/07_0_ivan_4.typ"
 
 #include "src/08_smuta.typ"
+
+#include "src/09_new_romans/09_0_new_romans.typ"
+
