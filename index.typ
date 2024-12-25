@@ -48,3 +48,5 @@
 #include "src/16_alex_1/16_alex_1.typ"
 
 #include "src/17_dec.typ"
+
+#include "src/18_nic_1/18_nic_1.typ"
