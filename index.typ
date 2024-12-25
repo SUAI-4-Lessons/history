@@ -50,3 +50,6 @@
 #include "src/17_dec.typ"
 
 #include "src/18_nic_1/18_nic_1.typ"
+
+#include "src/19_crym.typ"
+
