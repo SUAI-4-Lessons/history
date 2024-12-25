@@ -46,3 +46,5 @@
 #include "src/15_pawel_1.typ"
 
 #include "src/16_alex_1/16_alex_1.typ"
+
+#include "src/17_dec.typ"
