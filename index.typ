@@ -60,3 +60,7 @@
 #include "src/22_reforms_alex_2.typ"
 
 #include "src/23_alex_3.typ"
+
+#include "src/24_rus_yap.typ"
+
+#include "src/25_rev.typ"
