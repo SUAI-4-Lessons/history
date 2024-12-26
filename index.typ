@@ -64,3 +64,5 @@
 #include "src/24_rus_yap.typ"
 
 #include "src/25_rev.typ"
+
+#include "src/26_krepostn.typ"
